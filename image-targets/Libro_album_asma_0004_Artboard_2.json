@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Libro_album_asma_0004_Artboard_2_luminance.png",
+  "resources": {
+    "originalImage": "Libro_album_asma_0004_Artboard_2_original.png",
+    "croppedImage": "Libro_album_asma_0004_Artboard_2_cropped.png",
+    "thumbnailImage": "Libro_album_asma_0004_Artboard_2_thumbnail.png",
+    "luminanceImage": "Libro_album_asma_0004_Artboard_2_luminance.png"
+  },
+  "name": "Libro_album_asma_0004_Artboard_2",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 150,
+    "width": 900,
+    "height": 1200,
+    "isRotated": false,
+    "originalWidth": 1200,
+    "originalHeight": 1200
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795478722794,
+  "updated": 1795478722794
+}
